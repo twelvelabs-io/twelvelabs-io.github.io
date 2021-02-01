@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.a43d7b3c.chunk.css",
-    "main.js": "/static/js/main.91d5af62.chunk.js",
-    "main.js.map": "/static/js/main.91d5af62.chunk.js.map",
+    "main.css": "/static/css/main.173e9630.chunk.css",
+    "main.js": "/static/js/main.3d167317.chunk.js",
+    "main.js.map": "/static/js/main.3d167317.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.23041e79.js",
     "runtime-main.js.map": "/static/js/runtime-main.23041e79.js.map",
-    "static/js/2.62cc0ecf.chunk.js": "/static/js/2.62cc0ecf.chunk.js",
-    "static/js/2.62cc0ecf.chunk.js.map": "/static/js/2.62cc0ecf.chunk.js.map",
+    "static/css/2.dd67f187.chunk.css": "/static/css/2.dd67f187.chunk.css",
+    "static/js/2.8ec4fe84.chunk.js": "/static/js/2.8ec4fe84.chunk.js",
+    "static/js/2.8ec4fe84.chunk.js.map": "/static/js/2.8ec4fe84.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f1586e1dde87d7e96d3f7593ce297c19.js": "/precache-manifest.f1586e1dde87d7e96d3f7593ce297c19.js",
+    "precache-manifest.cb425b8e6b7a4dd3128c27c18ae82613.js": "/precache-manifest.cb425b8e6b7a4dd3128c27c18ae82613.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.a43d7b3c.chunk.css.map": "/static/css/main.a43d7b3c.chunk.css.map",
-    "static/js/2.62cc0ecf.chunk.js.LICENSE.txt": "/static/js/2.62cc0ecf.chunk.js.LICENSE.txt",
+    "static/css/2.dd67f187.chunk.css.map": "/static/css/2.dd67f187.chunk.css.map",
+    "static/css/main.173e9630.chunk.css.map": "/static/css/main.173e9630.chunk.css.map",
+    "static/js/2.8ec4fe84.chunk.js.LICENSE.txt": "/static/js/2.8ec4fe84.chunk.js.LICENSE.txt",
     "static/media/aiden.png": "/static/media/aiden.f8c97b9a.png",
     "static/media/dave.png": "/static/media/dave.35577ddc.png",
     "static/media/hallazzang.png": "/static/media/hallazzang.c38d3017.png",
-    "static/media/haram.png": "/static/media/haram.1d235d00.png",
-    "static/media/jae.png": "/static/media/jae.811fbaa9.png",
+    "static/media/haram.png": "/static/media/haram.33bf1edf.png",
+    "static/media/jae.png": "/static/media/jae.70b34e34.png",
     "static/media/ray.png": "/static/media/ray.3fd560fd.png",
     "static/media/right-arrow-button.1208f452.svg": "/static/media/right-arrow-button.1208f452.svg",
     "static/media/sj.png": "/static/media/sj.4ec3924c.png",
@@ -26,8 +28,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.23041e79.js",
-    "static/js/2.62cc0ecf.chunk.js",
-    "static/css/main.a43d7b3c.chunk.css",
-    "static/js/main.91d5af62.chunk.js"
+    "static/css/2.dd67f187.chunk.css",
+    "static/js/2.8ec4fe84.chunk.js",
+    "static/css/main.173e9630.chunk.css",
+    "static/js/main.3d167317.chunk.js"
   ]
 }
